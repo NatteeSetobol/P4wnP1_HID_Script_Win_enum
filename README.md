@@ -1,5 +1,5 @@
 # P4wnP1_HID_Script_Win_enum
-This is a simple HID script for the P4wnP1 that will enumeration windows.
+The main purpose of this HID script is to enumerate windows on target systems, providing valuable insights into the operating system and hardware configuration.
 
 
 #How to use
